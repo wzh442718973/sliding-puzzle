@@ -7,6 +7,7 @@ object Keys {
     const val THUMBNAIL_DIM = "THUMBNAIL_DIM"
     const val THUMBNAIL_LEFT = "THUMBNAIL_LEFT"
     const val THUMBNAIL_TOP = "THUMBNAIL_TOP"
+    const val THUMBNAIL_BITMAP = "THUMBNAIL_BITMAP"
 
     const val GRID_DIM_SHORT = "GRID_DIM_SHORT"
     const val GRID_DIM_LONG = "GRID_DIM_LONG"
